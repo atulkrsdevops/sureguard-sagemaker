@@ -1,0 +1,10 @@
+[
+  "driver_age",
+  "vehicle_age",
+  "annual_mileage",
+  "prior_claims",
+  "credit_score",
+  "region_risk",
+  "vehicle_power",
+  "exposure_months"
+]
